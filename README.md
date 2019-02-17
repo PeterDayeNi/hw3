@@ -16,6 +16,8 @@ What code makes the "lawnmower" come by? How often does it come by?
     fill(255);
     rect(0, 0, width, height-15);
     h = 10;
+    
+    It come randomly
 
 What's the point of the h variable?
 
