@@ -1,6 +1,6 @@
 # hw3
 
-P&E Homework 2
+P&E Homework 3
 
 This repository is for Computational Practice 1 Assignment 2
 
