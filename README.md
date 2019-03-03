@@ -2,7 +2,7 @@
 
 P&E Homework 3
 
-This repository is for Computational Practice 1 Assignment 2
+This repository is for Computational Practice 1 Assignment 4
 
 What code draws the blades of grass?
 
